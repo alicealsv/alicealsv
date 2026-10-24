@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=56&duration=3000&color=B00020&center=true&vCenter=true&width=500&height=100&repeat=false&lines=Alice">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=16&duration=3000&pause=1500&color=E5E5E5&center=true&vCenter=true&width=650&height=30&lines=engenharia+de+software;come%C3%A7ando+a+programar;apaixonada+por+tecnologia+e+jogos">
-</p>
 
 <p align="center">
   <a href="mailto:alicealvsse@gmail.com"><img src="https://img.shields.io/badge/E--mail-8B0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
