@@ -79,4 +79,4 @@ Meu objetivo é <b>evoluir a cada projeto</b> e transformar <b>curiosidade</b> e
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=12&duration=2500&color=B00020&center=true&vCenter=true&width=200&height=24&repeat=false&lines=tchau,+volte+sempre">
 </p>
 
-<p align="center">❤️</p>
+
