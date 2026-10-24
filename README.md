@@ -16,9 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="focused-claire-redfield.gif" width="320">
+  <img src="claire-redfield-hunk.gif" width="320">
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A0C1E,50:B00020,100:7A0C1E&height=160&section=header&text=sobre%20mim&fontColor=F5E6D3&fontSize=70&fontAlignY=50" width="220">
 </p>
