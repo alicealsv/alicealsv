@@ -8,27 +8,36 @@
 
 <p align="center">
   <a href="mailto:alicealvsse@gmail.com"><img src="https://img.shields.io/badge/E--mail-8B0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=alicealsv&label=VISITAS&color=B22222&style=for-the-badge">
+  <a href="https://instagram.com/alicealsv"><img src="https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:B00020,100:000000&height=4&section=header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=aprendendo%20%C2%B7%20programando%20%C2%B7%20criando%20%C2%B7%20debugando&fontColor=E5E5E5&fontSize=14&fontAlignY=50&animation=fadeIn" width="600">
 </p>
 
-<img align="right" src="focused-claire-redfield.gif" width="320">
+<p align="center">
+  <img src="focused-claire-redfield.gif" width="320">
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A0C1E,50:B00020,100:7A0C1E&height=160&section=header&text=sobre%20mim&fontColor=F5E6D3&fontSize=70&fontAlignY=50" width="220">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A0C1E,50:B00020,100:7A0C1E&height=160&section=header&text=sobre%20mim&fontColor=F5E6D3&fontSize=70&fontAlignY=50" width="220">
+</p>
 
-Oi, eu sou a **Alice**, tenho 18 anos e estudo Engenharia de Software na Uniceplac. Estou começando a programar e ainda estou no começo, mas sou apaixonada por tecnologia e jogos. No momento estou estudando Java e uso o VS Code para escrever meus códigos. Quero ir evoluindo a cada projeto.
+<p align="center">
+Me chamo <b>Alice</b> e tenho <b>18 anos</b>. Sou estudante de <b>Engenharia de Software</b><br>
+no Centro Universitário do Planalto Central Apparecido dos Santos (<b>UNICEPLAC</b>).
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=14&duration=2500&color=D62839&vCenter=true&width=420&height=28&repeat=false&lines=Codinome:+Alice"><br>
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=14&duration=2500&color=D62839&vCenter=true&width=420&height=28&repeat=false&lines=Idade:+18+anos"><br>
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=14&duration=2500&color=D62839&vCenter=true&width=420&height=28&repeat=false&lines=Forma%C3%A7%C3%A3o:+Engenharia+de+Software+%C2%B7+Uniceplac"><br>
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=14&duration=2500&color=D62839&vCenter=true&width=420&height=28&repeat=false&lines=Estudando+agora:+Java"><br>
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=14&duration=2500&color=D62839&vCenter=true&width=420&height=28&repeat=false&lines=Editor:+VS+Code"><br>
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=14&duration=2500&color=D62839&vCenter=true&width=420&height=28&repeat=false&lines=Interesses:+tecnologia+e+jogos">
+<p align="center">
+Sou apaixonada por <b>tecnologia</b>, <b>programação</b> e <b>jogos</b>,<br>
+e estou no começo da jornada, aprendendo de verdade com cada erro e cada projeto.
+</p>
 
-<br clear="right">
+<p align="center">
+Atualmente estou estudando <b>Java</b>, escrevo meus códigos no <b>VS Code</b><br>
+e guardo tudo no <b>Git</b> e <b>GitHub</b>.<br>
+Meu objetivo é <b>evoluir a cada projeto</b> e transformar <b>curiosidade</b> em software.
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:B00020,100:000000&height=4&section=header" width="100%">
