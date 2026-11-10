@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="frieren-borboletas.gif" width="360">
+  <img src="https://raw.githubusercontent.com/alicealsv/alicealsv/main/frieren-borboletas.gif.webp" width="360">
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ Meu objetivo é <b>evoluir a cada projeto</b> e transformar <b>curiosidade</b> e
 </p>
 
 <p align="center">
-  <img src="brilhos.gif" width="600">
+  <img src="https://raw.githubusercontent.com/alicealsv/alicealsv/main/frieren-borboletas.gif%20(2).webp" width="600">
 </p>
 
 <p align="center">
